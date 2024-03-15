@@ -1,0 +1,44 @@
+img
+{
+	height: 242px;
+	width: 356px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+h1
+{
+	text-align: center;
+	color: whitesmoke;
+	font-family: Monospace;
+	font-size: 80px;
+	text-transform: capitalize;
+}
+h3
+{
+	text-align: center;
+	color: whitesmoke;
+	text-decoration-line: underline;
+	text-decoration-color: LightSlateGrey	;
+	font-family: Monospace;
+	font-size: 40px;
+}
+body
+{
+	background-color: black;
+}
+h2
+{
+	color: black;
+	text-decoration-line: none;
+	text-align: center;
+	background-color: white;
+	font-family: Cursive;
+}
+p
+{
+	color: white;
+	text-align: center;
+	font-family:Papyrus;
+}
